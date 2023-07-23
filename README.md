@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently learning various **Full Stack technologies**
+- 🔭 I’m focusing on various **Full Stack technologies**
 - 🌱 I’m currently learning **Node.js**
 - 🤔 I’m looking for **employment**
 - ⚡️ Fun fact: **If it does not destroys you, it makes you stronger!**
@@ -62,5 +62,20 @@
   </a>
   <a href="https://mui.com/material-ui/">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" alt="materialUI" width="40" height="40" />
+  </a>
+</div>
+<h3>How to reach me:</h3>
+<div>
+  <a href="mailto:sych521@gmail.com">
+    <img src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-512.png" alt="email" width="60" height="60" />
+  </a>
+  <a href="https://www.linkedin.com/in/yaroslav-sych/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/640px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="60" height="60" />
+  </a>
+  <a href="https://t.me/YSych">
+    <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" alt="telegram" width="60" height="60" />
+  </a>
+  <a href="https://www.instagram.com/sych.yaroslav/">
+    <img src="https://www.exults.com/wp-content/uploads/instagram-icon.png" alt="instagram" width="60" height="60" />
   </a>
 </div>
