@@ -75,17 +75,20 @@
 
 <br> 
 
-<h3>How to reach me:</h3>
-<div>
+<h3 align="center">How to reach me:</h3>
+<div align="center">
   <a href="mailto:sych521@gmail.com">
     <img src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-512.png" alt="email" width="60" height="60" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yaroslav-sych/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/640px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="60" height="60" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/YSych" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" alt="telegram" width="60" height="60" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/sych.yaroslav/" target="_blank">
     <img src="https://www.exults.com/wp-content/uploads/instagram-icon.png" alt="instagram" width="60" height="60" />
   </a>
