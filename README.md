@@ -70,7 +70,7 @@
   <h4><a href="https://github.com/iberikofer/Web-Studio" target="_blank">Web Studio</a> - My first individual project, which was created when I learned HTML and CSS.</h4>
   <h4><a href="https://github.com/lezver/team-13-ice-cream" target="_blank">Ice cream</a> - First team project based on HTML and SASS, I was a developer, my section - Advantages list.</h4>
   <h4><a href="https://github.com/lezver/project-new_skill" target="_blank">Bookshelf</a> - Second team project, more about JavaScript, role - developer, section - Book modal window.</h4>
-  <h4><a href="https://iberikofer.github.io/Phonebook" target="_blank">Phonebook</a> - Second individual project, here I focused on functional, not the beauty. In phonebook I showed my skills in React, React Router, Redux, Redux-persist, API, also i created custom hook.</h4>
+  <h4><a href="https://github.com/iberikofer/Phonebook" target="_blank">Phonebook</a> - Second individual project, here I focused on functional, not the beauty. In phonebook I showed my skills in React, React Router, Redux, Redux-persist, API, also i created custom hook.</h4>
 </div>
 
 <br> 
