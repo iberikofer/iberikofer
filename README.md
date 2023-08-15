@@ -22,9 +22,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="js" width="40" height="40" />
   </a>
-  <a href="https://babeljs.io" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" alt="babel" width="40" height="40" />
-  </a>
   <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react.js" width="40" height="40" />
   </a>
