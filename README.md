@@ -28,14 +28,17 @@
   <a href="https://redux.js.org/introduction/getting-started" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" alt="react-redux" width="40" height="40" />
   </a>
+  <a href="https://swagger.io" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40" height="40" />
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongoDB" width="40" height="40" />
   </a>
-  <a href="https://swagger.io" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40" height="40" />
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="mongoDB" width="40" height="40" />
   </a>
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40" />
