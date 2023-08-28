@@ -4,7 +4,7 @@
 
 - 🔭 I’m focusing on various **Full Stack technologies**
 - 🌱 I’m currently learning **Node.js**
-- 🤔 I’m looking for **employment**
+- 🤔 I’m looking for **career prospects**
 - ⚡️ Fun fact: **If it does not destroys you, it makes you stronger!**
 
 <br> 
