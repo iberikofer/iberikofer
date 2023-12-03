@@ -2,8 +2,7 @@
 <br>
 <br> 
 
-- 🔭 I’m focusing on various **Full Stack technologies**
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently learning and focusing on various **Full Stack technologies**
 - 🤔 I’m looking for **career prospects**
 - ⚡️ Fun fact: **If it does not destroys you, it makes you stronger!**
 
