@@ -68,6 +68,7 @@
   <h4><a href="https://github.com/lezver/team-13-ice-cream" target="_blank">Ice cream</a> - First team project based on HTML and SASS, I was a developer, my section - Advantages list.</h4>
   <h4><a href="https://github.com/lezver/project-new_skill" target="_blank">Bookshelf</a> - Second team project, more about JavaScript, role - developer, section - Book modal window.</h4>
   <h4><a href="https://github.com/iberikofer/Phonebook" target="_blank">Phonebook</a> - Second individual project, here I focused on functional, not the beauty. In phonebook I showed my skills in React, React Router, Redux, Redux-persist, API, also i created custom hook.</h4>
+  <h4><a href="https://github.com/AndriiZlt/healthyHub-frontend" target="_blank">Healthy hub</a> - The third team project. Full-stack web page developed using React, Node, and a wide array of libraries and services.</h4>
 </div>
 
 <br> 
