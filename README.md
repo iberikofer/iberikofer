@@ -37,9 +37,6 @@
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongoDB" width="40" height="40" />
   </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="mongoDB" width="40" height="40" />
-  </a>
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40" />
   </a>
