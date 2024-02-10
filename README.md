@@ -2,8 +2,8 @@
 <br>
 <br> 
 
-- 🔭 I’m currently learning and focusing on various **Full Stack technologies**
-- 🤔 I’m looking for **career prospects**
+- 🎯 I’m currently focused on making fascinating React applications.
+- 🔎 I’m looking for **career prospects**
 - ⚡️ Fun fact: **If it does not destroys you, it makes you stronger!**
 
 <br> 
@@ -65,7 +65,7 @@
 <div>
   <h4><a href="https://github.com/lezver/team-13-ice-cream" target="_blank">Ice cream</a> - First team project based on HTML and SASS, I was a developer, my section - Advantages list.</h4>
   <h4><a href="https://github.com/lezver/project-new_skill" target="_blank">Bookshelf</a> - Second team project, more about JavaScript, role - developer, section - Book modal window.</h4>
-  <h4><a href="https://github.com/AndriiZlt/healthyHub-frontend" target="_blank">Healthy hub</a> - The third team project was a full-stack web page developed using React, Node, and an extensive range of libraries and services. I implemented my section (Dashboard) using react-chartjs-2. Additionally, I served as the Scrum master for the team.</h4>
+  <h4><a href="https://github.com/AndriiZlt/healthyHub-frontend" target="_blank">Healthy hub</a> - The third team project was a full-stack web page developed using React, Node, and an extensive range of libraries and services. I served as a developer and the Scrum master for the team. My section - Dashboard(using react-chartjs-2).</h4>
 </div>
 
 <br> 
