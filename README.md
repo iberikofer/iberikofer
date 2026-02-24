@@ -33,9 +33,6 @@
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40" />
   </a>
-  <a href="https://uk.wikipedia.org/wiki/Bash" target="_blank">
-    <img src="https://icon-library.com/images/bash-icon/bash-icon-10.jpg" alt="bash" width="40" height="40" />
-  </a>
   <a href="https://git-scm.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="40" height="40" />
   </a>
