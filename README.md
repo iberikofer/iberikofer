@@ -24,12 +24,6 @@
   <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react.js" width="40" height="40" />
   </a>
-  <a href="https://redux.js.org/introduction/getting-started" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" alt="react-redux" width="40" height="40" />
-  </a>
-  <a href="https://swagger.io" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40" height="40" />
-  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40" />
   </a>
