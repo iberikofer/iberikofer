@@ -3,8 +3,8 @@
 <br> 
 
 - 🎯 I’m currently focused on making fascinating React applications.
-- 🔎 I’m looking for **career prospects**
-- ⚡️ Fun fact: **If it does not destroys you, it makes you stronger!**
+- 🔎 I’m looking for **new opportunities**.
+- ⚡️ Fun fact: **I can code, deploy, and debug even during blackouts**!
 
 <br> 
 <h3>My stack:</h3>
@@ -50,17 +50,6 @@
   </a>
 </div>
 
-<br> 
-
-<h3>My team projects:</h3>
-<div>
-  <h4><a href="https://github.com/lezver/team-13-ice-cream" target="_blank">Ice cream</a> - First team project based on HTML and SASS, I was a developer, my section - Advantages list.</h4>
-  <h4><a href="https://github.com/lezver/project-new_skill" target="_blank">Bookshelf</a> - Second team project, more about JavaScript, role - developer, section - Book modal window.</h4>
-  <h4><a href="https://github.com/AndriiZlt/healthyHub-frontend" target="_blank">Healthy hub</a> - The third team project was a full-stack web page developed using React, Node, and an extensive range of libraries and services. I served as a developer and the Scrum master for the team. My section - Dashboard(using react-chartjs-2).</h4>
-</div>
-
-<br> 
-
 <h3 align="center">How to reach me:</h3>
 <div align="center">
   <a href="mailto:sych521@gmail.com">
@@ -68,8 +57,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yaroslav-sych/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/640px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="60" height="60" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60" />
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/YSych" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" alt="telegram" width="60" height="60" />
