@@ -1,36 +1,67 @@
-<h1 align="center"> Welcome! I am Yaroslav Sych, Ukrainian Full Stack developer 👋</h1> 
-<br>
-<br> 
+<div align="center">
 
-- 🎯 I’m currently focused on making fascinating React applications.
-- 🔎 I’m looking for **new opportunities**.
-- ⚡️ Fun fact: **I can code, deploy, and debug even during blackouts**!
+  <h1>Hi there, I'm Yaroslav Sych 👋</h1>
+  <p><strong>Full Stack Developer | React & Node.js Specialist</strong></p>
 
-<br> 
-<h3>My stack:</h3>
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://sass-lang.com/guide/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="sass" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="js" width="40" height="40" /></a>
-  <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react.js" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="node.js" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongoDB" width="40" height="40" /></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="github" width="40" height="40" /></a>
-  <a href="https://vitejs.dev" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="vite" width="40" height="40" /></a>
-  <a href="https://webpack.js.org" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Webpack-Dark.svg" alt="webpack" width="40" height="40" /></a>
-  <a href="https://mui.com/material-ui/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" alt="materialUI" width="40" height="40" /></a>
 </div>
 
-<h3 align="center">How to reach me:</h3>
+<br/>
+
+### 🚀 About Me
+
+- 💡 **Core Focus:** Building performant, responsive React web applications and scalable Node.js backend services.
+- 💼 **Status:** Open for **Full Stack / Frontend / Backend Developer opportunities** (Remote or Relocation).
+- ⚡ **Fun fact:** I can write, deploy, and debug clean code even during full blackouts!
+- 🎯 **Current Goal:** Expanding my software engineering skills by learning new languages and technologies, while keeping my main focus on modern web ecosystems.
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Frontend**
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
+<a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+<a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /></a>
+
+#### **Backend & Database**
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+
+#### **Tools & Workflow**
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=iberikofer&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yaroslav's GitHub Stats" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=iberikofer&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iberikofer&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+
 <div align="center">
-  <a href="mailto:sych521@gmail.com"><img src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-512.png" alt="email" width="60" height="60" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yaroslav-sych/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/YSych" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" alt="telegram" width="60" height="60" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sych.yaroslav/" target="_blank"><img src="https://www.exults.com/wp-content/uploads/instagram-icon.png" alt="instagram" width="60" height="60" /></a>
+
+  <h3>📬 Let's Connect</h3>
+  <p>Whether you want to discuss new job opportunities or talk React architecture, feel free to drop a message!</p>
+
+  <p>
+    <a href="https://linkedin.com/in/yaroslav-sych"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sych521@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://t.me/YSych"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://instagram.com/sych.yaroslav/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+
 </div>
