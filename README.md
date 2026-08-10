@@ -23,17 +23,17 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/Vite-FFD62E?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
+[![Webpack](https://img.shields.io/badge/Webpack-2B3A42?style=for-the-badge&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/)
 
 #### **Backend & Database**
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0F522C?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 #### **Tools & Workflow**
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-004A7F?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
