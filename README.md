@@ -41,7 +41,7 @@
 
 <div align="center">
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=iberikofer&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yaroslav's GitHub Stats" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=iberikofer&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=iberikofer&theme=dark&hide_border=true&v=2" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iberikofer&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
