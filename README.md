@@ -27,12 +27,14 @@
 
 #### **Backend & Database**
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-0F522C?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 #### **Tools & Workflow**
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-004A7F?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 
 ---
 
