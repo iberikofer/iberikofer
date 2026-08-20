@@ -33,7 +33,7 @@
   <img height="195" src="https://github-readme-stats-mu-ochre-41.vercel.app/api?username=iberikofer&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yaroslav's GitHub Stats" />
   <img height="195" src="https://github-streak-stats-rho.vercel.app/?user=iberikofer&theme=dark&hide_border=true&v=2" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-mu-ochre-41.vercel.app/api/top-langs/?username=iberikofer&layout=pie&theme=dark&hide_border=true&langs_count=7&hide=php" alt="Top Languages" />
+  <img src="https://github-readme-stats-mu-ochre-41.vercel.app/api/top-langs/?username=iberikofer&layout=pie&theme=dark&hide_border=true&langs_count=8&hide=php,scss" alt="Top Languages" />
 </div>
 <!-- <div align="center">
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=iberikofer&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yaroslav's GitHub Stats" />
