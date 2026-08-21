@@ -31,9 +31,6 @@
 
 <div align="center">
   <table border="0" align="center" cellpadding="0" cellspacing="6">
-    <tr height="10">
-      <td colspan="2"></td>
-    </tr>
     <tr valign="middle">
       <td align="center">
         <img height="195" src="https://github-readme-stats-mu-ochre-41.vercel.app/api?username=iberikofer&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=495" alt="Yaroslav's GitHub Stats" />
@@ -43,9 +40,6 @@
       <td align="center">
         <img height="398" src="https://github-readme-stats-mu-ochre-41.vercel.app/api/top-langs/?username=iberikofer&layout=pie&theme=dark&hide_border=true&langs_count=8&hide=php,scss" alt="Top Languages" />
       </td>
-    </tr>
-    <tr height="2">
-      <td colspan="2"></td>
     </tr>
   </table>
 </div>
