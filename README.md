@@ -60,10 +60,7 @@
 <div align="center">
   <h3>📬 Let's Connect</h3>
   <p>Whether you want to discuss new job opportunities or talk React architecture, feel free to drop a message!</p>
-  <p>
-    <a href="https://linkedin.com/in/yaroslav-sych"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sych521@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://t.me/YSych"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="https://instagram.com/sych.yaroslav/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+  <p align="center">
+  <a href="https://linkedin.com/in/yaroslav-sych"><img src="https://img.shields.io/badge/%E2%80%82LinkedIn%E2%80%82-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:sych521@gmail.com"><img src="https://img.shields.io/badge/%E2%80%82%E2%80%82Email%E2%80%82%E2%80%82-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://t.me/YSych"><img src="https://img.shields.io/badge/%E2%80%82Telegram%E2%80%82-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a><a href="https://instagram.com/sych.yaroslav/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 </div>
