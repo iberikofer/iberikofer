@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Yaroslav Sych 👋</h1>
-  <p><strong>Full Stack Developer | React & Node.js Specialist</strong></p>
+  <h3><strong>Full Stack Developer | React & Node.js Specialist</strong></h3>
   <p>
     <a href="https://iberikofer.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/VISIT_PORTFOLIO_%E2%86%97-047857?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
