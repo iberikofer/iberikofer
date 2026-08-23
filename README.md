@@ -3,8 +3,10 @@
   <p><strong>Full Stack Developer | React & Node.js Specialist</strong></p>
   <p>
     <a href="https://iberikofer.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO_%E2%86%97-047857?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
+      <img src="https://img.shields.io/badge/VISIT_PORTFOLIO_%E2%86%97-047857?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
     </a>
+    <br />
+    <sub><em>Tip: Ctrl + Click / Middle Click to open in a new tab</em></sub>
   </p>
 </div>
 
