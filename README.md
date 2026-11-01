@@ -42,10 +42,10 @@
       <td align="center">
         <img height="195" src="https://github-readme-stats-mu-ochre-41.vercel.app/api?username=iberikofer&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=495" alt="Yaroslav's GitHub Stats" />
         <br/>
-        <img height="195" src="https://github-streak-stats-rho.vercel.app/?user=iberikofer&theme=dark&hide_border=true&v=2" alt="GitHub Streak" />
+        <img height="195" src="https://github-streak-stats-rho.vercel.app/?user=iberikofer&theme=dark&hide_border=true" alt="GitHub Streak" />
       </td>
       <td align="center">
-        <img height="398" src="https://github-readme-stats-mu-ochre-41.vercel.app/api/top-langs/?username=iberikofer&layout=pie&theme=dark&hide_border=true&langs_count=10&hide=php,scss,dockerfile,makefile,css,batchfile,cmake" alt="Top Languages" />
+        <img height="398" src="https://github-readme-stats-mu-ochre-41.vercel.app/api/top-langs/?username=iberikofer&layout=pie&theme=dark&hide_border=true&langs_count=10&hide=php,scss,dockerfile,makefile,css,batchfile,cmake&v=2" alt="Top Languages" />
       </td>
     </tr>
   </table>
